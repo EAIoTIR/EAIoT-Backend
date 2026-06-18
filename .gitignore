@@ -1,0 +1,11 @@
+build
+.stamps
+host/inputs
+host/outputs
+.Xil
+*/*/.Xil
+temp
+sw/src/app/models/*
+!sw/src/app/models/.gitkeep
+*log
+
